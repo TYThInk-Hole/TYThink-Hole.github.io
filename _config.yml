@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: T.YOON Notebook
+  tagline: major in mathematics
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -25,11 +25,9 @@ texture:
   # generate social links in footer
   social_links:
     twitter: thelehhman
-    github:  thelehhman
+    github:  https://github.com/TYThInk-Hole
     linkedIn: in/thelehhman
     rss: rss
- 
- google_analytics_id : UA-151347256-1
  
 
 
