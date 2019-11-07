@@ -1,6 +1,6 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: Notebook
+author: T.YOON
+email: kty6689@naver.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: T.YOON Notebook
+  tagline: major in mathematics
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -25,10 +25,11 @@ texture:
   # generate social links in footer
   social_links:
     twitter: thelehhman
-    github:  thelehhman
+    github:  https://github.com/TYThInk-Hole
     linkedIn: in/thelehhman
     rss: rss
  
+
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
